@@ -3,7 +3,7 @@
 Instead of loading new page every time you click a link, it shoud uses background AJAX requests to WP REST API to fetch data without reloading the page.
 
 # Installation
-# Theme building (for team building go to your local meetup)
+# Theme building 
 # Todos
 
 
